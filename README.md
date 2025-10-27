@@ -13,8 +13,6 @@ This repository provides the code and results for "Align and Purify: Cross-Domai
 - TensorboardX 2.1+
 - opencv-python
 
-If anything goes wrong with the environment, please check `requirements.txt` for details.
-
 ---
 
 ## Architecture and Details
