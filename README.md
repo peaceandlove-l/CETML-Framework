@@ -22,24 +22,26 @@ If anything goes wrong with the environment, please check `requirements.txt` for
 <p align="center">
   <img src="assets/mutual learning.png" width="800">
 </p>
+- Proposed Cross-Domain Edge-Detail-Aware Transfer Mutual Learning Framework
 <p align="center">
   <img src="assets/SGCNet.png" width="800">
 </p>
+- Proposed spatial-aware geometric constrained network(SGCNet)
 <p align="center">
   <img src="assets/FATNet.png" width="800">
 </p>
+- Proposed frequency aware texture-detail network(FATNet)
 <p align="center">
   <img src="assets/RFF.png" width="800">
 </p>
-### Overview
-
-The proposed **CETML** adopts a Cross-Domain Edge-Detail-Aware Transfer Mutual Learning Framework.  
-It includes Four main components:
-
-1. **Geometric Transfer Learning (GTL)** – Enhances feature alignment between RGB and thermal branches.  
-2. **Boundary Boosting Algorithm (BBA)** – Strengthens edge localization by introducing spatial boundary cues.  
-3. **Semantic Transfer Learning (STL)** – Refines cross-modal semantic understanding through joint optimization.
-
+- Proposed residual fourier Fusion (RFF) module
 ---
+
+## Results
+---- Results compared with some methods on NYUV2 Datasets
+<p align="center">
+  <img src="assets/Results.png" width="800">
+</p>
+
 
 
